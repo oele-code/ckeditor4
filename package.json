@@ -1,0 +1,28 @@
+{
+  "name": "@oele-code/ckeditor4",
+  "version": "1.0.0",
+  "description": "Custom configuration for Ckeditor 4",
+  "main": "ckeditor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oele-code/ckeditor4.git"
+  },
+  "keywords": [
+    "ckeditor4",
+    "editor",
+    "wysiwyg",
+    "html",
+    "richtext",
+    "javascript",
+    "ckeditor"
+  ],
+  "author": "Osmell Caicedo <@oele_co>",
+  "license": "MIT/X11",
+  "bugs": {
+    "url": "https://github.com/oele-code/ckeditor4/issues"
+  },
+  "homepage": "https://github.com/oele-code/ckeditor4#readme"
+}
